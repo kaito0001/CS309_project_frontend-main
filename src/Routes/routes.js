@@ -1,0 +1,10 @@
+export const LANDING = '/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const DASHBOARD = '/dashboard';
+export const PRODUCTS = '/Products';
+export const PRODUCT_DETAILS = '/Product-Details';
+export const CONTACTUS = '/ContactUS';
+export const CHECKOUT = '/CheckOut';
